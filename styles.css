@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #b6a894;
+    background-color: var(--white);
 }
 
 .calculator {
